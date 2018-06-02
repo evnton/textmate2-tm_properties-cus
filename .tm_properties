@@ -1,0 +1,11 @@
+fontName             = "Menlo"
+fontSize             = 13
+fileBrowserGlob      = "{*,.tm_properties,.htaccess}"
+excludeInFileChooser = "{$exclude,tmp,log}"
+
+[ source ]
+softTabs             = true
+tabSize              = 2
+
+[ target ]
+fileType             = "source.tm-properties"
